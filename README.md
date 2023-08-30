@@ -2,6 +2,7 @@
 
 pdf를 베이스로 하여 gpt와 대화를 나눕니다.
 
+
 Chroma 벡터 데이터 베이스를 활용하여 로컬에서 안전하게 사용할 수 있습니다.
 
 Question about your pdf        
